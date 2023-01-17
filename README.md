@@ -6,6 +6,9 @@ Unlimited message sent📱🚀
 
 git clone https://github.com/MAHIN-XD/SMS_BOMBING
 
-cd SMS_BOMBING
+cd SMS-BOMBING
 
 python sms1.py
+
+Username -Mahin
+Password -Mahin
